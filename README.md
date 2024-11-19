@@ -1,6 +1,6 @@
 # Physics Programming
 
-Physics applications made with C/C++, OpenGL, and SDL2 for PC at the university.
+Physics applications built with C/C++, OpenGL, and SDL2 for PC at the university.
 
 ## Table of Contents
 
